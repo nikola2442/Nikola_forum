@@ -75,7 +75,7 @@ include 'konekcija.php';
 }else
 {
     session_destroy();
-} */
+} **/
 ?>
 
 

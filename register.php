@@ -163,7 +163,7 @@ else
     </div>
 <form class="bg-white" action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
 <div class="mb-3 ">
-  <label for="exampleFormControlInput1" class="form-label">Full name</label>
+  <label for="exampleFormControlInput1" class="form-label">Full nam</label>
   <input type="text" name="fullname" class="form-control" id="exampleFormControlInput1" placeholder="John Doe">
   <span class="error"> <?php echo $fullnameErr;?></span>
 </div>

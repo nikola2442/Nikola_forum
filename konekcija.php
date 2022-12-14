@@ -22,7 +22,7 @@
         echo "Table created successfully <br>";
     } else {
         echo "Error creating table: " . $conn->error;
-    }*/
+    }**/
 
     
 ?>
