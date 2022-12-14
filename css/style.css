@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    
+  }
+/* centiranje rowa */
+.mb-3{
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+}
+/* centriranje forme*/
+.form-control{
+    margin: auto;
+    width: 60%;
+}
+#buttonlogin{
+    margin-top: 20px;
+}
+/* odvajanje forme ispod fixiranog navbara */
+#forma{
+    margin-top: 60px;
+    width: 25%;
+    border:  2px solid black;
+    border-radius: 15px;
+}
+/*backgorund image i visina*/
+#back {
+    padding-top: 80px;
+    background-image: url(../slike/backgroundlogin.webp);
+    height: 100vh;
+  }
+/*namestanje reg. linka*/
+#registerlink{
+    margin-top: 10px;
+}
+/*naslov*/
+#naslov{
+    margin: auto;
+    text-align: center;
+}
+/*inline*/
+#inline{
+    display: inline-block;
+}
+/*checkbox*/
+#checkbox{
+    margin-top: 15px;
+}
+#remember{
+    margin-top: 10px;
+}
+/*greske*/
+.error {color: #FF0000;
+    }
+#regbutton{
+    margin-top: 10px;
+}
